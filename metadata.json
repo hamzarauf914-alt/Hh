@@ -1,0 +1,6 @@
+{
+  "name": "Dadyal Online",
+  "description": "Online grocery delivery with real-time order tracking, customer loyalty rewards, and secure payment integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
